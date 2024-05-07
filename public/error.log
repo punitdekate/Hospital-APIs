@@ -1,0 +1,1 @@
+{"level":"error","message":"Wed Apr 24 2024 00:27:30 GMT+0530 (India Standard Time)\n Request URL: /api/users/patients/6627d6e9501cc4e85a221aa0/create_report\nRequest Body: {}\nError : SyntaxError: Expected double-quoted property name in JSON at position 48"}
